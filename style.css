@@ -1,0 +1,21 @@
+body{
+    background-image: url(oceano.jpg);
+    background-size: 100%;
+    text-align: center;
+}
+
+button{
+    border-radius: 25%;
+}
+h1{
+    color: green;
+    font-family: cursive;
+}
+select{
+    border-radius: 25%;
+    
+}
+input{
+    width: 7%;
+    border-radius: 25%;
+}

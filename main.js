@@ -8,6 +8,6 @@ document.addEventListener("DOMContentLoaded", function () {
         let resultado;
         
         resultado = capital * (taxa + 1) ** tempo;       
-        alert("Resultado: R$" + Math.trunc(resultado) );
+        alert("Rendimentos: R$" + Math.trunc(resultado) );
     } 
 }) ;
